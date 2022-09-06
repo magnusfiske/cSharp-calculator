@@ -1,3 +1,4 @@
-﻿<Properties StartupConfiguration="{570BAED0-B6A5-4854-8879-F96B093FC3E0}|Default">
+﻿<Properties StartupConfiguration="{570BAED0-B6A5-4854-8879-F96B093FC3E0}|Default" GitUserInfo="UsingMD">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.kalkylator PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
