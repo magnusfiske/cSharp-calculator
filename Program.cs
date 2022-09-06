@@ -22,6 +22,7 @@ namespace kalkylator
 
             Console.WriteLine("{0} {1} {2} = {3}", cal1.NumberOne, cal1.Op, cal1.NumberTwo, cal1.Answer);
 
+            Console.ReadKey();
             
 
 

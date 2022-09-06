@@ -59,7 +59,7 @@ namespace kalkylator
             {
                 Console.Write("Ange ett tecken ");
                 op = Console.ReadLine();
-                if ((op == "+") || (op == "-") || (op == "*") || (op == "/"))
+                if ((op == "+") || (op == "-") || (op == "*") || (op == "/") || (op == "%"))
                 {
                     success = true;
                 }
