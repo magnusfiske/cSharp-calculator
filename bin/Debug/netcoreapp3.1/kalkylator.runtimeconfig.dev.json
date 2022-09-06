@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/magnus/.dotnet/store/|arch|/|tfm|",
+      "/Users/magnus/.nuget/packages"
+    ]
+  }
+}

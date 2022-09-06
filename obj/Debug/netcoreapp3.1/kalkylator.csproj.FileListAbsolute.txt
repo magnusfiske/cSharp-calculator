@@ -1,0 +1,14 @@
+/Users/magnus/Projects/kalkylator/kalkylator/bin/Debug/netcoreapp3.1/kalkylator.deps.json
+/Users/magnus/Projects/kalkylator/kalkylator/bin/Debug/netcoreapp3.1/kalkylator.runtimeconfig.json
+/Users/magnus/Projects/kalkylator/kalkylator/bin/Debug/netcoreapp3.1/kalkylator.runtimeconfig.dev.json
+/Users/magnus/Projects/kalkylator/kalkylator/bin/Debug/netcoreapp3.1/kalkylator.dll
+/Users/magnus/Projects/kalkylator/kalkylator/bin/Debug/netcoreapp3.1/kalkylator.pdb
+/Users/magnus/Projects/kalkylator/kalkylator/obj/Debug/netcoreapp3.1/kalkylator.csproj.AssemblyReference.cache
+/Users/magnus/Projects/kalkylator/kalkylator/obj/Debug/netcoreapp3.1/kalkylator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/magnus/Projects/kalkylator/kalkylator/obj/Debug/netcoreapp3.1/kalkylator.AssemblyInfoInputs.cache
+/Users/magnus/Projects/kalkylator/kalkylator/obj/Debug/netcoreapp3.1/kalkylator.AssemblyInfo.cs
+/Users/magnus/Projects/kalkylator/kalkylator/obj/Debug/netcoreapp3.1/kalkylator.csproj.CoreCompileInputs.cache
+/Users/magnus/Projects/kalkylator/kalkylator/obj/Debug/netcoreapp3.1/kalkylator.dll
+/Users/magnus/Projects/kalkylator/kalkylator/obj/Debug/netcoreapp3.1/kalkylator.pdb
+/Users/magnus/Projects/kalkylator/kalkylator/obj/Debug/netcoreapp3.1/kalkylator.genruntimeconfig.cache
+/Users/magnus/Projects/kalkylator/kalkylator/bin/Debug/netcoreapp3.1/kalkylator

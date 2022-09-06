@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H0MuGRloS0V8aqkkSKgeq7li15QHxJKI+rLFCGQCKH43vQ3xpDxyPxyVk5Oi+plsjL2DHNZNQyjm/ILQbBq1mA==",
+  "success": true,
+  "projectFilePath": "/Users/magnus/Projects/kalkylator/kalkylator/kalkylator.csproj",
+  "expectedPackageFiles": [
+    "/Users/magnus/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/magnus/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/magnus/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
